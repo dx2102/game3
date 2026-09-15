@@ -4,7 +4,7 @@ Author: Deming Xu
 
 Design: 
 
-Three birds sing the three voices of Bach's C minor fugue (BWV 847). You have to pick out, by ear, the moments when a voice sings the do-si-do+X motif or runs up or down a scale, and answer each pattern with a key press on the note that follows. The picture only shows what has already been heard, never when to press.
+Three birds sing the three voices of Bach's C minor fugue (BWV 847). You have to pick out, by ear, the moments when a voice sings the do-si-do motif or runs up or down a scale, and answer each pattern with a key press on the last note. The picture only shows what has already been heard, never when to press.
 
 This is a game similar to Rhythm Heaven, except that the melodies are drawn from classical music rather than being composed from scratch, and it utilizes the symmetry and patterns found in Bach's compositions.
 
